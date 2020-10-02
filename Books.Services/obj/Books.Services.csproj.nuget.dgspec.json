@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj": {}
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj": {}
   },
   "projects": {
     "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
@@ -69,14 +69,14 @@
         }
       }
     },
-    "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj": {
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
+        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj",
         "projectName": "Books.Services",
-        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
+        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\obj\\",
+        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

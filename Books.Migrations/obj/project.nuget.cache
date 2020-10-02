@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gg9D+xgjGGZAIpBUgwxpxyulEXnfoKXwPSSCLK8sI9+IFM4XIl3+VttplR5Yvn0nk02CedaoBtgZJpZ1kAykHw==",
+  "success": true,
+  "projectFilePath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

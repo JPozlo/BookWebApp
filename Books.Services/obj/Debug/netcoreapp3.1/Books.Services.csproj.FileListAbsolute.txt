@@ -7,3 +7,6 @@ d:\q1\Prototypes\Web\Books\Books.services\obj\Debug\netcoreapp3.1\Books.Services
 d:\q1\Prototypes\Web\Books\Books.services\obj\Debug\netcoreapp3.1\Books.Services.csproj.CoreCompileInputs.cache
 d:\q1\Prototypes\Web\Books\Books.services\obj\Debug\netcoreapp3.1\Books.Services.dll
 d:\q1\Prototypes\Web\Books\Books.services\obj\Debug\netcoreapp3.1\Books.Services.pdb
+d:\q1\Prototypes\Web\Books\Books.Services\bin\Debug\netcoreapp3.1\Books.Data.dll
+d:\q1\Prototypes\Web\Books\Books.Services\bin\Debug\netcoreapp3.1\Books.Data.pdb
+d:\q1\Prototypes\Web\Books\Books.Services\obj\Debug\netcoreapp3.1\Books.Services.csproj.CopyComplete

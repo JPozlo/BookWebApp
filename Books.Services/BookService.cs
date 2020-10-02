@@ -26,9 +26,12 @@ namespace Books.Services
             if (book != null)
             {
                 _db.Remove(book);
+                _db.SaveChanges();
             }
-
-            throw new InvalidOperationException("Can't delete book that doesn't exist");
+            else
+            {
+                throw new InvalidOperationException("Can't delete book that doesn't exist");
+            }
         }
 
         public List<Book> GetAllBooks()

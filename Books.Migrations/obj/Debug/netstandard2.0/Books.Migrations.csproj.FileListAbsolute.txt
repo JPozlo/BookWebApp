@@ -1,0 +1,9 @@
+D:\q1\Prototypes\Web\Books\Books.Migrations\bin\Debug\netstandard2.0\Books.Migrations.deps.json
+D:\q1\Prototypes\Web\Books\Books.Migrations\bin\Debug\netstandard2.0\Books.Migrations.dll
+D:\q1\Prototypes\Web\Books\Books.Migrations\bin\Debug\netstandard2.0\Books.Migrations.pdb
+D:\q1\Prototypes\Web\Books\Books.Migrations\obj\Debug\netstandard2.0\Books.Migrations.csprojAssemblyReference.cache
+D:\q1\Prototypes\Web\Books\Books.Migrations\obj\Debug\netstandard2.0\Books.Migrations.AssemblyInfoInputs.cache
+D:\q1\Prototypes\Web\Books\Books.Migrations\obj\Debug\netstandard2.0\Books.Migrations.AssemblyInfo.cs
+D:\q1\Prototypes\Web\Books\Books.Migrations\obj\Debug\netstandard2.0\Books.Migrations.csproj.CoreCompileInputs.cache
+D:\q1\Prototypes\Web\Books\Books.Migrations\obj\Debug\netstandard2.0\Books.Migrations.dll
+D:\q1\Prototypes\Web\Books\Books.Migrations\obj\Debug\netstandard2.0\Books.Migrations.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Books.Data
+namespace Books.Migrations
 {
     public class Class1
     {
