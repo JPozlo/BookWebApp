@@ -1,0 +1,9 @@
+d:\q1\Prototypes\Web\Books\Books.Data\bin\Debug\netcoreapp3.1\Books.Data.deps.json
+d:\q1\Prototypes\Web\Books\Books.Data\bin\Debug\netcoreapp3.1\Books.Data.dll
+d:\q1\Prototypes\Web\Books\Books.Data\bin\Debug\netcoreapp3.1\Books.Data.pdb
+d:\q1\Prototypes\Web\Books\Books.Data\obj\Debug\netcoreapp3.1\Books.Data.csprojAssemblyReference.cache
+d:\q1\Prototypes\Web\Books\Books.Data\obj\Debug\netcoreapp3.1\Books.Data.AssemblyInfoInputs.cache
+d:\q1\Prototypes\Web\Books\Books.Data\obj\Debug\netcoreapp3.1\Books.Data.AssemblyInfo.cs
+d:\q1\Prototypes\Web\Books\Books.Data\obj\Debug\netcoreapp3.1\Books.Data.csproj.CoreCompileInputs.cache
+d:\q1\Prototypes\Web\Books\Books.Data\obj\Debug\netcoreapp3.1\Books.Data.dll
+d:\q1\Prototypes\Web\Books\Books.Data\obj\Debug\netcoreapp3.1\Books.Data.pdb
