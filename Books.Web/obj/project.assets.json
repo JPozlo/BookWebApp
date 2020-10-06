@@ -989,8 +989,8 @@
     },
     "Books.Services/1.0.0": {
       "type": "project",
-      "path": "../Books.Services/Books.Services.csproj",
-      "msbuildProject": "../Books.Services/Books.Services.csproj"
+      "path": "../Books.services/Books.Services.csproj",
+      "msbuildProject": "../Books.services/Books.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1012,11 +1012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
+      "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
       "projectName": "Books.Web",
-      "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
+      "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
       "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\obj\\",
+      "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1035,14 +1035,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
-              "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
+            "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
+              "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
             },
-            "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
-              "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj"
+            "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
+              "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj"
             },
-            "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj": {
-              "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj"
+            "D:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj": {
+              "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj"
             }
           }
         }

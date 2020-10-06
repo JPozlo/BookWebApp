@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4swLnC3WHvCHNz/OUf6Ekwt6SH9pnymOYCyR1pbyYvCtGteggC/AnOy9sLVMQX8u4GgLFjMzmJAXAsaobWSFAw==",
+  "dgSpecHash": "Lo5nKG7zAtrL1pUpskrgW6Et2Cpet+nIGmAH13emo7sGR3+JVtsmawuwW2JgLfv9A1dUEF5bTsoO/bVh35S7qA==",
   "success": true,
-  "projectFilePath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
+  "projectFilePath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tom\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Tom\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
