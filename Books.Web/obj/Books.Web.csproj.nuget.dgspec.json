@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj": {}
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj": {}
   },
   "projects": {
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
+        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
         "projectName": "Books.Data",
-        "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
+        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\obj\\",
+        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
+        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
         "projectName": "Books.Migrations",
-        "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
+        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\obj\\",
+        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -127,14 +127,14 @@
         }
       }
     },
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj": {
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
+        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj",
         "projectName": "Books.Services",
-        "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
+        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.services\\obj\\",
+        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -153,8 +153,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
-                "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
+              "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
+                "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
               }
             }
           }
@@ -192,14 +192,14 @@
         }
       }
     },
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj": {
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
+        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
         "projectName": "Books.Web",
-        "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
+        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\Books.Web.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Web\\obj\\",
+        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -218,14 +218,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
-                "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
+              "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
+                "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
               },
-              "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
-                "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj"
+              "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
+                "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj"
               },
-              "D:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj": {
-                "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj"
+              "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj": {
+                "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Services\\Books.Services.csproj"
               }
             }
           }

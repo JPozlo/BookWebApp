@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {}
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {}
   },
   "projects": {
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
+        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
         "projectName": "Books.Migrations",
-        "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
+        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\Books.Migrations.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\obj\\",
+        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {}
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {}
   },
   "projects": {
-    "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
+    "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
+        "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
         "projectName": "Books.Data",
-        "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
+        "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\obj\\",
+        "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

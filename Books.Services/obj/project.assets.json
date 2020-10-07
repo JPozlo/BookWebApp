@@ -787,11 +787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
+      "projectUniqueName": "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
       "projectName": "Books.Services",
-      "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
+      "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\Books.Services.csproj",
       "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.services\\obj\\",
+      "outputPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -810,8 +810,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
-              "projectPath": "D:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
+            "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj": {
+              "projectPath": "d:\\q1\\Prototypes\\Web\\Books\\Books.Data\\Books.Data.csproj"
             }
           }
         }
